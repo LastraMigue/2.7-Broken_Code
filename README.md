@@ -1,6 +1,6 @@
 # 2.7 - Broken Code
 
-## Actividad: Depuración de Código (Nivel 1)
+## Actividad: Depuración de Código
 
 Este repositorio contiene la resolución de la **Actividad 2.7**, enfocada en la práctica de técnicas de depuración (*debugging*) en JavaScript.
 
